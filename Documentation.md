@@ -509,4 +509,3 @@ Keep these prompts and AI responses in a subfolder (ai-prompts.md) for reproduci
 
 ---
 
-End of documentation — paste this file as `documentation.md` in your project root and update README with run instructions.
